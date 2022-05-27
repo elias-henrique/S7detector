@@ -1,8 +1,8 @@
 # Se7e Detector
 > Monitoramento de problemas e quedas de serviços em tempo real
 ###
-![print1](https://user-images.githubusercontent.com/55397460/110210286-b77fae80-7e6f-11eb-9632-b67ba7d58d39.png)  
-_Esse serviço contém direitos autorais_ - _Elias Henrique_
+![print1](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fotanix%2Fpage%2Fitem%2Fainz-ooal-gown%2Fw3pq_0YhpIp0qPdmkXvvlWNQj3jK7BXgVr&psig=AOvVaw3T2p3fp4xSNAleYHgiKtyw&ust=1653699942802000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMDvn8O-_vcCFQAAAAAdAAAAABAD)  
+_Esse serviço contém direitos autorais_ - _Se7e_
 
 ## Instalações
 ### Requerimentos
@@ -19,7 +19,7 @@ _Esse serviço contém direitos autorais_ - _Elias Henrique_
 
 ## Meta
 
-Elias Henrique – [eliashenrique.pyc@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)
+Elias Henrique – [@__eliashenrique](https://www.instagram.com/__eliashenrique/)
 
 
 ## Authors

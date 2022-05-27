@@ -19,7 +19,7 @@ _Esse serviço contém direitos autorais_ - _Se7e_
 
 ## Meta
 
-Instagram – [@__eliashenrique](https://www.instagram.com/__eliashenrique/)
+Instagram: [@__eliashenrique](https://www.instagram.com/__eliashenrique/)
 
 
 ## Authors
